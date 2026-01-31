@@ -1,4 +1,4 @@
-## English version test
+## English version
 
 # Strategic Customer Segmentation using Machine Learning
 
