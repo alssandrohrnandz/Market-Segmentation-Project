@@ -59,7 +59,7 @@ The analysis identified [X] key customer segments:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/customer-segmentation-project.git](https://github.com/your-username/customer-segmentation-project.git)
+   git clone [git@github.com:alssandrohrnandz/Market-Segmentation-Project.git](https:git@github.com:alssandrohrnandz/Market-Segmentation-Project.git)
 
 ## Version en Español
 # Segmentación Estratégica de Clientes mediante Machine Learning
@@ -121,4 +121,4 @@ Tras el análisis, se identificaron [X] segmentos clave:
 
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/tu-usuario/proyecto-segmentacion.git](https://github.com/tu-usuario/proyecto-segmentacion.git)
+   git clone [git@github.com:alssandrohrnandz/Market-Segmentation-Project.git](https:git@github.com:alssandrohrnandz/Market-Segmentation-Project.git)
